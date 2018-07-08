@@ -1,0 +1,1 @@
+基于python:3.6.6-alpine镜像，增加python3-dev，gcc等软件包用于支持numpy，pandas，scipy，statmodels等量化开发包的安装。
